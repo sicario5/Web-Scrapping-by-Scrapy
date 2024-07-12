@@ -1,0 +1,83 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.6",
+    "setuptools"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sicario\\anaconda3\\pkgs\\incremental-22.10.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/incremental-22.10.0.dist-info/INSTALLER",
+    "Lib/site-packages/incremental-22.10.0.dist-info/LICENSE",
+    "Lib/site-packages/incremental-22.10.0.dist-info/METADATA",
+    "Lib/site-packages/incremental-22.10.0.dist-info/RECORD",
+    "Lib/site-packages/incremental-22.10.0.dist-info/REQUESTED",
+    "Lib/site-packages/incremental-22.10.0.dist-info/WHEEL",
+    "Lib/site-packages/incremental-22.10.0.dist-info/direct_url.json",
+    "Lib/site-packages/incremental-22.10.0.dist-info/entry_points.txt",
+    "Lib/site-packages/incremental-22.10.0.dist-info/top_level.txt",
+    "Lib/site-packages/incremental/__init__.py",
+    "Lib/site-packages/incremental/_version.py",
+    "Lib/site-packages/incremental/py.typed",
+    "Lib/site-packages/incremental/tests/__init__.py",
+    "Lib/site-packages/incremental/tests/test_update.py",
+    "Lib/site-packages/incremental/tests/test_version.py",
+    "Lib/site-packages/incremental/update.py",
+    ".nonadmin",
+    "Lib/site-packages/incremental/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/incremental/__pycache__/_version.cpython-312.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/test_update.cpython-312.pyc",
+    "Lib/site-packages/incremental/tests/__pycache__/test_version.cpython-312.pyc",
+    "Lib/site-packages/incremental/__pycache__/update.cpython-312.pyc"
+  ],
+  "fn": "incremental-22.10.0-pyhd8ed1ab_0.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Sicario\\anaconda3\\pkgs\\incremental-22.10.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "3e8ffb42d8afbbec87d92a3aa46c0969",
+  "name": "incremental",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Sicario\\anaconda3\\pkgs\\incremental-22.10.0-pyhd8ed1ab_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/_version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/test_update.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/tests/__pycache__/test_version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/incremental/__pycache__/update.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "5a31d75899b1f0e40d9b366921f35981509e9537ca0150e590c9b9b0daf30f21",
+  "size": 18667,
+  "subdir": "noarch",
+  "timestamp": 1665859549000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/incremental-22.10.0-pyhd8ed1ab_0.tar.bz2",
+  "version": "22.10.0"
+}

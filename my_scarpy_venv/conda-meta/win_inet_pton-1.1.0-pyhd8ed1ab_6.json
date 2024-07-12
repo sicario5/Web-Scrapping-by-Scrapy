@@ -1,0 +1,51 @@
+{
+  "build": "pyhd8ed1ab_6",
+  "build_number": 6,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "__win",
+    "python >=3.6"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sicario\\anaconda3\\pkgs\\win_inet_pton-1.1.0-pyhd8ed1ab_6",
+  "files": [
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/LICENSE",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/METADATA",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/RECORD",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/WHEEL",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/win_inet_pton-1.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/win_inet_pton.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/win_inet_pton.cpython-312.pyc"
+  ],
+  "fn": "win_inet_pton-1.1.0-pyhd8ed1ab_6.tar.bz2",
+  "license": "PUBLIC-DOMAIN",
+  "link": {
+    "source": "C:\\Users\\Sicario\\anaconda3\\pkgs\\win_inet_pton-1.1.0-pyhd8ed1ab_6",
+    "type": 1
+  },
+  "md5": "30878ecc4bd36e8deeea1e3c151b2e0b",
+  "name": "win_inet_pton",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Sicario\\anaconda3\\pkgs\\win_inet_pton-1.1.0-pyhd8ed1ab_6.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/__pycache__/win_inet_pton.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "a11ae693a0645bf6c7b8a47bac030be9c0967d0b1924537b9ff7458e832c0511",
+  "size": 8191,
+  "subdir": "noarch",
+  "timestamp": 1667051294000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/win_inet_pton-1.1.0-pyhd8ed1ab_6.tar.bz2",
+  "version": "1.1.0"
+}

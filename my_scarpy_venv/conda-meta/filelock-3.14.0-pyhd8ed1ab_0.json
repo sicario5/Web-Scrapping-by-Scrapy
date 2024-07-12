@@ -1,0 +1,92 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.7"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sicario\\anaconda3\\pkgs\\filelock-3.14.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/filelock-3.14.0.dist-info/INSTALLER",
+    "Lib/site-packages/filelock-3.14.0.dist-info/METADATA",
+    "Lib/site-packages/filelock-3.14.0.dist-info/RECORD",
+    "Lib/site-packages/filelock-3.14.0.dist-info/REQUESTED",
+    "Lib/site-packages/filelock-3.14.0.dist-info/WHEEL",
+    "Lib/site-packages/filelock-3.14.0.dist-info/direct_url.json",
+    "Lib/site-packages/filelock-3.14.0.dist-info/licenses/LICENSE",
+    "Lib/site-packages/filelock/__init__.py",
+    "Lib/site-packages/filelock/_api.py",
+    "Lib/site-packages/filelock/_error.py",
+    "Lib/site-packages/filelock/_soft.py",
+    "Lib/site-packages/filelock/_unix.py",
+    "Lib/site-packages/filelock/_util.py",
+    "Lib/site-packages/filelock/_windows.py",
+    "Lib/site-packages/filelock/py.typed",
+    "Lib/site-packages/filelock/version.py",
+    ".nonadmin",
+    "Lib/site-packages/filelock/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_api.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_error.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_soft.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_unix.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_util.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/_windows.cpython-312.pyc",
+    "Lib/site-packages/filelock/__pycache__/version.cpython-312.pyc"
+  ],
+  "fn": "filelock-3.14.0-pyhd8ed1ab_0.conda",
+  "license": "Unlicense",
+  "link": {
+    "source": "C:\\Users\\Sicario\\anaconda3\\pkgs\\filelock-3.14.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "831d85ae0acfba31b8efd0f0d07da736",
+  "name": "filelock",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Sicario\\anaconda3\\pkgs\\filelock-3.14.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/_api.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/_error.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/_soft.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/_unix.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/_util.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/_windows.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/filelock/__pycache__/version.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "6031be667e1b0cc0dee713f1cbca887cdee4daafa8bac478da33096f3147d38b",
+  "size": 15902,
+  "subdir": "noarch",
+  "timestamp": 1714422911000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/filelock-3.14.0-pyhd8ed1ab_0.conda",
+  "version": "3.14.0"
+}

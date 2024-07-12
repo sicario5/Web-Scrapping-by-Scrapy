@@ -1,0 +1,87 @@
+{
+  "build": "pyhd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "attrs >=19.1.0",
+    "cryptography",
+    "pyasn1",
+    "pyasn1-modules",
+    "pyopenssl >=0.12",
+    "python >=2.7",
+    "six"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sicario\\anaconda3\\pkgs\\service-identity-21.1.0-pyhd8ed1ab_0",
+  "files": [
+    "Lib/site-packages/service_identity-21.1.0.dist-info/AUTHORS.rst",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/LICENSE",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/METADATA",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/RECORD",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/REQUESTED",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/WHEEL",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/direct_url.json",
+    "Lib/site-packages/service_identity-21.1.0.dist-info/top_level.txt",
+    "Lib/site-packages/service_identity/__init__.py",
+    "Lib/site-packages/service_identity/_common.py",
+    "Lib/site-packages/service_identity/_compat.py",
+    "Lib/site-packages/service_identity/cryptography.py",
+    "Lib/site-packages/service_identity/exceptions.py",
+    "Lib/site-packages/service_identity/pyopenssl.py",
+    ".nonadmin",
+    "Lib/site-packages/service_identity/__pycache__/__init__.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/_common.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/_compat.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/cryptography.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/exceptions.cpython-312.pyc",
+    "Lib/site-packages/service_identity/__pycache__/pyopenssl.cpython-312.pyc"
+  ],
+  "fn": "service-identity-21.1.0-pyhd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Sicario\\anaconda3\\pkgs\\service-identity-21.1.0-pyhd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "4f262a2942593011b9466583e9a8eeb5",
+  "name": "service-identity",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Sicario\\anaconda3\\pkgs\\service-identity-21.1.0-pyhd8ed1ab_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/__init__.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/_common.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/_compat.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/cryptography.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/exceptions.cpython-312.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/service_identity/__pycache__/pyopenssl.cpython-312.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "460db2fee08e7c60732793b6d646102ba7ce6fd0d6b080a7a1a6868760867e3f",
+  "size": 16083,
+  "subdir": "noarch",
+  "timestamp": 1700936612000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/service-identity-21.1.0-pyhd8ed1ab_0.conda",
+  "version": "21.1.0"
+}

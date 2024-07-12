@@ -1,0 +1,54 @@
+{
+  "build": "hcfcfb64_5",
+  "build_number": 5,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "libzlib 1.2.13 hcfcfb64_5",
+    "ucrt >=10.0.20348.0",
+    "vc >=14.2,<15",
+    "vc14_runtime >=14.29.30139"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sicario\\anaconda3\\pkgs\\zlib-1.2.13-hcfcfb64_5",
+  "files": [
+    "Library/include/zconf.h",
+    "Library/include/zlib.h",
+    "Library/lib/pkgconfig/zlib.pc",
+    "Library/lib/z.lib",
+    "Library/lib/zdll.lib",
+    "Library/lib/zlib.lib",
+    "Library/lib/zlibstatic.lib",
+    "Library/share/man/man3/zlib.3",
+    ".nonadmin"
+  ],
+  "fn": "zlib-1.2.13-hcfcfb64_5.conda",
+  "license": "Zlib",
+  "link": {
+    "source": "C:\\Users\\Sicario\\anaconda3\\pkgs\\zlib-1.2.13-hcfcfb64_5",
+    "type": 1
+  },
+  "md5": "a318e8622e11663f645cc7fa3260f462",
+  "name": "zlib",
+  "package_tarball_full_path": "C:\\Users\\Sicario\\anaconda3\\pkgs\\zlib-1.2.13-hcfcfb64_5.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Library/lib/pkgconfig/zlib.pc",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "D:/bld/zlib-split_1686575172314/_h_env",
+        "sha256": "1b0d9bca485894d6d809903af96e2e8de36fd94cef676b2273cdc91ce523228e",
+        "sha256_in_prefix": "7902da62ec5a3fc26ff91d63c3e7044d4c19a32c02b80aeddbe7cd696ef17b6e",
+        "size_in_bytes": 455
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "0f91b719c7558046bcd37fdc7ae4b9eb2b7a8e335beb8b59ae7ccb285a46aa46",
+  "size": 107711,
+  "subdir": "win-64",
+  "timestamp": 1686575474000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/zlib-1.2.13-hcfcfb64_5.conda",
+  "version": "1.2.13"
+}

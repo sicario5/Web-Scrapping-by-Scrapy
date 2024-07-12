@@ -1,0 +1,59 @@
+{
+  "build": "h835141b_20",
+  "build_number": 20,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [
+    "vs2015_runtime 14.38.33135.* *_20"
+  ],
+  "depends": [
+    "ucrt >=10.0.20348.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sicario\\anaconda3\\pkgs\\vc14_runtime-14.38.33135-h835141b_20",
+  "files": [
+    "Library/bin/concrt140.dll",
+    "Library/bin/msvcp140.dll",
+    "Library/bin/msvcp140_1.dll",
+    "Library/bin/msvcp140_2.dll",
+    "Library/bin/msvcp140_atomic_wait.dll",
+    "Library/bin/msvcp140_codecvt_ids.dll",
+    "Library/bin/vcamp140.dll",
+    "Library/bin/vccorlib140.dll",
+    "Library/bin/vcomp140.dll",
+    "Library/bin/vcruntime140.dll",
+    "Library/bin/vcruntime140_1.dll",
+    "Library/bin/vcruntime140_threads.dll",
+    "concrt140.dll",
+    "msvcp140.dll",
+    "msvcp140_1.dll",
+    "msvcp140_2.dll",
+    "msvcp140_atomic_wait.dll",
+    "msvcp140_codecvt_ids.dll",
+    "vcamp140.dll",
+    "vccorlib140.dll",
+    "vcomp140.dll",
+    "vcruntime140.dll",
+    "vcruntime140_1.dll",
+    "vcruntime140_threads.dll",
+    ".nonadmin"
+  ],
+  "fn": "vc14_runtime-14.38.33135-h835141b_20.conda",
+  "license": "LicenseRef-ProprietaryMicrosoft",
+  "link": {
+    "source": "C:\\Users\\Sicario\\anaconda3\\pkgs\\vc14_runtime-14.38.33135-h835141b_20",
+    "type": 1
+  },
+  "md5": "e971b35a5765862fabc4ba6e5ddf9470",
+  "name": "vc14_runtime",
+  "package_tarball_full_path": "C:\\Users\\Sicario\\anaconda3\\pkgs\\vc14_runtime-14.38.33135-h835141b_20.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "05b07e0dd3fd49dcc98a365ff661ed6b65e2f0266b4bb03d273131ffdba663be",
+  "size": 744189,
+  "subdir": "win-64",
+  "timestamp": 1716231234000,
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc14_runtime-14.38.33135-h835141b_20.conda",
+  "version": "14.38.33135"
+}

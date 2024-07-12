@@ -1,0 +1,35 @@
+{
+  "build": "hd8ed1ab_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "service-identity >=21.1.0,<21.1.1.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\Sicario\\anaconda3\\pkgs\\service_identity-21.1.0-hd8ed1ab_0",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "service_identity-21.1.0-hd8ed1ab_0.conda",
+  "license": "MIT",
+  "link": {
+    "source": "C:\\Users\\Sicario\\anaconda3\\pkgs\\service_identity-21.1.0-hd8ed1ab_0",
+    "type": 1
+  },
+  "md5": "c30b537bf2dd37def09a5596ac3029f6",
+  "name": "service_identity",
+  "noarch": "generic",
+  "package_tarball_full_path": "C:\\Users\\Sicario\\anaconda3\\pkgs\\service_identity-21.1.0-hd8ed1ab_0.conda",
+  "package_type": "noarch_generic",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "397f0b69f8d1d5550b227dad80d2508fe0ee2949b3bdb641f6ae37e96f822220",
+  "size": 6405,
+  "subdir": "noarch",
+  "timestamp": 1700936619000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/service_identity-21.1.0-hd8ed1ab_0.conda",
+  "version": "21.1.0"
+}
